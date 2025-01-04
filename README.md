@@ -1,7 +1,3 @@
-It seems I can't open the file directly in the canvas. However, I can provide the content here, and you can let me know if you'd like any edits or adjustments:
-
----
-
 # Real-Time Face Detection using OpenCV
 
 This project demonstrates real-time face detection using a webcam feed with OpenCV's Haar Cascade classifier.
